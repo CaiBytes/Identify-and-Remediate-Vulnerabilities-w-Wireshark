@@ -7,7 +7,7 @@ The Vulnerability Analysis project aimed to establish a controlled environment f
 ### Skills Learned
 
 - Advanced understanding of Wireshark concepts and practical application.
-- Proficiency in analyzing and interpreting packets.
+- Proficiency in analyzing and interpreting network traffic.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 - Effective communcation of cybersecurity concepts.
