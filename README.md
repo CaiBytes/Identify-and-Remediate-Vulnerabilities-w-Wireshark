@@ -1,8 +1,8 @@
-# Identify and Remediate Vulnerabilities with Wireshark
+# Vulnerability Analysis with Wireshark
 
 ## Objective
 
-The Identify and Redmediate Vulnerabilities project aimed to establish a controlled environment for detecting network vulnerabilities in Wireshark and offering remediation solutions, as well as creating a report for a client. The primary focus was to ingest and analyze packet captures within Wireshark mimicing real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security and defensive strategies.
+The Vulnerability Analysis project aimed to establish a controlled environment for detecting network vulnerabilities in Wireshark and offering remediation solutions, as well as creating a report for a client. The primary focus was to ingest and analyze packet captures within Wireshark mimicing real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security and defensive strategies.
 
 ### Skills Learned
 
