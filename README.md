@@ -10,7 +10,7 @@ The Vulnerability Analysis project aimed to establish a controlled environment f
 - Proficiency in analyzing and interpreting network traffic.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
-- Effective communcation of cybersecurity concepts.
+- Effective communication of cybersecurity concepts.
 
 ### Tools Used
 
